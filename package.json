@@ -1,0 +1,19 @@
+{
+  "name": "cifra-cesar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "js-sha1": "^0.6.0"
+  },
+  "devDependencies": {
+    "prettier": "2.0.5"
+  }
+}
